@@ -1,0 +1,190 @@
+{
+  "circulos": [
+    {
+      "nome": "Suporte",
+      "descricao": "O Time de Suporte de nossa organização desempenha um papel essencial, garantindo que todas as questões técnicas e demandas dos clientes sejam atendidas dentro do tempo acordado",
+      "responsabilidades": [
+        "Garantir que todas as questões técnicas e demandas dos clientes sejam atendidas",
+        "Organizar sessões de análise crítica durante falhas nos sistemas",
+        "Manter-se atualizado com todos os produtos para criar documentações técnicas e conduzir treinamentos",
+        "Responsável pela organização e operação de ferramentas de gestão de tarefas"
+      ]
+    },
+    {
+      "nome": "Customer Success",
+      "descricao": "O Time de Customer Success desempenha um papel crucial no suporte e acompanhamento de projetos de clientes desde o início até a conclusão.",
+      "responsabilidades": [
+        "Guia os clientes através do processo de integração em novos projetos",
+        "Testa e valida funcionalidades antes de serem entregues aos clientes",
+        "Avalia a satisfação do cliente e coleta feedback para futuras melhorias"
+      ]
+    },
+    {
+      "nome": "HyperAutomation",
+      "descricao": "O time de HyperAutomation Experience na nossa organização desempenha um papel fundamental no avanço das operações de automação.",
+      "responsabilidades": [
+        "Facilitar a implementação de Provas de Conceito (POC) para potenciais parceiros",
+        "Desenvolver projetos personalizados e fornecer consultoria especializada em HyperAutomation",
+        "Analisar processos existentes e avaliar o potencial de retorno sobre investimento"
+      ]
+    },
+    {
+      "nome": "Account Manager",
+      "descricao": "O time de AM tem o papel crucial de administrar as relações com os parceiros, com foco na garantia da satisfação e lealdade.",
+      "responsabilidades": [
+        "Eles são o principal elo de ligação entre a organização e os clientes, dedicando-se a compreender suas necessidades, resolver desafios e introduzir soluções inovadoras.",
+        "Acompanham o desempenho das contas, assegurando que os objetivos sejam cumpridos e que o valor proporcionado aos parceiros seja otimizado.",
+        "Negociam e renovam contratos."
+      ]
+    },
+    {
+      "nome": "Design",
+      "descricao": "Responsáveis por liderar o processo de design desde a concepção até a entrega final, eles garantem que cada etapa seja cuidadosamente planejada e executada.",
+      "responsabilidades": [
+        "Conduzir pesquisas e análises para desenvolver soluções inovadoras e testar sua usabilidade",
+        "Contribuir para a criação de uma experiência consistente através de diretrizes de design",
+        "Manter-se atualizados sobre as últimas tendências e práticas de mercado"
+      ]
+    },
+    {
+      "nome": "Pessoas",
+      "descricao": "Este departamento desempenha funções cruciais para as organizações, que vão desde a contratação até a rescisão de funcionários.",
+      "responsabilidades": [
+        "Conduzir os processos de admissão e demissão, incluindo gestão de benefícios e recompensas",
+        "Gerenciar a folha de pagamento e despesas corporativas",
+        "Promover inovações para melhorar a experiência de trabalho na organização"
+      ]
+    },
+    {
+        "nome": "Social",
+        "descricao": "O Time de Social é crucial na expansão e melhoria da presença online da organização.",
+        "responsabilidades": [
+          "Eles são encarregados de criar e administrar de maneira eficaz campanhas voltadas para a atração de potenciais clientes",
+          "manter as plataformas de mídia social da organização ativas com postagens temáticas.",
+          "está sempre buscando novos conhecimentos, com um foco especial em tecnologias emergentes, como a inteligência artificial. Seu objetivo é melhorar a eficiência e reduzir a dependência de especialistas, aumentando a produtividade do time."
+        ]
+      },
+    {
+      "nome": "Tecnologia",
+      "subcirculos": [
+        {
+          "nome": "BI",
+          "descricao": "O Time de BI é fundamental na gestão analítica e de bancos de dados da organização.",
+          "responsabilidades": [
+            "Desenvolver e gerenciar consultas personalizadas e relatórios analíticos",
+            "Estabelecer e atualizar a arquitetura de dados e monitorar a pipeline de dados",
+            "Colaborar com outras equipes para desenvolver relatórios e análises essenciais"
+          ]
+        },
+        {
+          "nome": "IAG",
+          "descricao": "O Time de IAG facilita a adoção de ferramentas tecnológicas avançadas.",
+          "responsabilidades": [
+            "Facilitar a incorporação de novas tecnologias em toda a organização",
+            "Desenvolver e supervisionar projetos inovadores e aplicar melhores práticas",
+            "Orientar e transferir conhecimento para novos membros da equipe"
+          ]
+        },
+        {
+          "nome": "Desenvolvimento de Produtos",
+          "descricao": "O Time de produtos é fundamental para assegurar a excelência, segurança e eficácia dos nossos produtos.",
+          "responsabilidades": [
+            "Identificar potenciais riscos nos projetos e realizar testes para garantir a qualidade",
+            "Programar o backend dos sistemas e conduzir homologações internas e externas",
+            "Utilizar ferramentas como JIRA e Qase para documentação e gerenciamento de testes"
+          ]
+        },
+        {
+          "nome": "Automação de Processos",
+          "descricao": "Este time é responsável por automatizar e otimizar processos, visando sempre a eficiência e a qualidade.",
+          "responsabilidades": [
+            "Avaliar e sugerir soluções de automação para os clientes",
+            "Desenvolver formulários e fluxos de automação, além de treinar novos membros da equipe",
+            "Realizar auditorias de segurança da informação"
+          ]
+        }
+      ]
+    },
+    {
+      "nome": "Governança de TI e Segurança da Informação",
+      "descricao": "Esse time busca a melhoria contínua dos processos tecnológicos e operacionais.",
+      "responsabilidades": [
+        "Planejar, atualizar e otimizar os processos de CI/CD para maximizar a eficiência e qualidade",
+        "Assegurar a conformidade com as normas ISO e resolver problemas proativamente",
+        "Otimizar o ciclo de vida de desenvolvimento de software"
+      ]
+    }
+  ],
+  "programas": [
+    {
+      "nome": "Star Performers",
+      "descricao": "Programa que reconhece os funcionários de alto desempenho na empresa"
+    },
+    {
+      "nome": "Monthly Highlights",
+      "descricao": "Programa que destaca as atividades realizadas por cada departamento no mês passado"
+    },
+    {
+      "nome": "Team Talk",
+      "descricao": "Podcast apresentado por funcionários da empresa, discutindo tópicos relevantes e compartilhando insights"
+    },
+    {
+      "nome": "Network Sessions",
+      "descricao": "Programa que promove o networking entre os funcionários em torno de temas pré-definidos"
+    },
+    {
+      "nome": "Learning Moments",
+      "descricao": "Apresenta palestras e workshops com especialistas externos para promover o aprendizado contínuo"
+    },
+    {
+      "nome": "Book Club",
+      "descricao": "Programa de leitura onde os funcionários compartilham conhecimentos e aprendem uns com os outros"
+    },
+    {
+      "nome": "Talent Development",
+      "descricao": "Programa que visa o desenvolvimento comportamental dos funcionários"
+    },
+    {
+      "nome": "Engagement Projects",
+      "descricao": "Projetos criados para aumentar o engajamento dos funcionários, incluindo jogos e atividades de produtividade"
+    },
+    {
+      "nome": "Referral Program",
+      "descricao": "Programa que oferece uma recompensa aos funcionários que indicam candidatos bem-sucedidos para vagas na empresa"
+    },
+    {
+      "nome": "Innovation Lab",
+      "descricao": "Espaço para a criação de projetos que utilizam Inteligência Artificial"
+    },
+    {
+      "nome": "Education Support",
+      "descricao": "Oferece incentivos para cursos, treinamentos e livros"
+    },
+    {
+      "nome": "Travel Benefits",
+      "descricao": "Programa de benefícios de viagem que oferece descontos significativos e um orçamento para viagens, pago pela empresa"
+    },
+    {
+      "nome": "Team Integration",
+      "descricao": "Evento de integração semestral para todos os times da empresa"
+    }
+  ],
+  "virtudes": {
+    "habilidades_sociais": [
+      "Respeito à diversidade",
+      "Franqueza",
+      "Construção de relacionamentos colaborativos"
+    ],
+    "habilidades_emocionais": [
+      "Inteligência emocional (autocontrole, autoconhecimento, empatia)",
+      "Empatia (escuta ativa, ação compassiva, colocar-se no lugar do outro)"
+    ],
+    "habilidades_cognitivas": [
+      "Assumir os erros e aprender com eles",
+      "Adaptabilidade e flexibilidade",
+      "Capacidade de experimentação e inovação",
+      "Auto-gestão e equilíbrio",
+      "Clareza nas responsabilidades e qualidade do trabalho"
+    ]
+  }
+}
