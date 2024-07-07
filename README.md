@@ -13,3 +13,7 @@
 6- a respeito do agendamento, no arquivo "reuniao.py" o agendamento de reuniões é automaticamente direcionado ao meu email para facilitar a visualização de sucesso na solicitação, dessa forma, recomendo alterar o email para visualizar o resultado.
 
 7- Após a configuração, executar "python main.py", e iniciar os testes de funcionamento(a primeira pergunta redirecionada aos embeddings é um pouco lenta, as demais são mais rápidas)
+
+
+OBSERVAÇÕES:
+O meio de redirecionar o código para as funcionalidades de tutorial e agendamento foi identificação de palavras-chave, dessa forma, a palavra "tutorial" serve para redirecionar ao tutorial da ferramenta, e "agendar reunião, marcar reunião, agendar uma reunião e marcar uma reunião" servem para agendar a reunião.
